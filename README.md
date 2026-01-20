@@ -16,15 +16,6 @@ This repository is created to practice and understand core Git concepts through 
   - Creating pull requests for code review
   - Reviewing and merging pull requests
 
-- **Git Ignore**
-  - Using a `.gitignore` file to exclude files and directories from version control
-  - The `.gitignore` file in this repository is located at the root, outside the `src/` folder
-
-- **Cherry-pick**
-  - Picking specific commits from one branch and applying them to another branch
-
-- **Revert**
-  - Undoing changes by creating a new commit that reverses the effects of a previous commit
 
 ## Repository Structure
 .
